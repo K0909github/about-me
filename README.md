@@ -2,6 +2,7 @@
 自己紹介
 
 松尾研LLMATCH世界モデル研究員一期生
+
 Braininspiredintelligenceセミナー員
 
 DL輪読会会員
