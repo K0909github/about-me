@@ -8,7 +8,7 @@ Braininspiredintelligenceセミナー員
 DL輪読会会員
 
 講義修了生2024
-(世界モデル・LLM・深層生成モデル・深層強化学習・DL基礎・金融機械学習・GCI）
+((世界モデル)・LLM・深層生成モデル・深層強化学習・DL基礎・金融機械学習・GCI）
 
 競プロ茶https://atcoder.jp/users/K0909
 
