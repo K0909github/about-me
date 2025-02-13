@@ -24,4 +24,4 @@ Fujitsu Certified Professional AI
 
 NAIST計算行動神経科学スプリングセミナー修了生
 
-応用脳科学アカデミー受講生
+応用脳科学アカデミー(アラヤ)受講生
