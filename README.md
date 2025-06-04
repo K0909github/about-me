@@ -40,3 +40,6 @@ https://huggingface.co/K0909/llm-jp-3-13b-it_lora:このモデルは元のモデ
 
 松尾研LLMATCH研究員
 https://matsuolab-geniac.notion.site/llmatch-season2
+
+https://github.com/K0909github/paper-hacks
+
