@@ -14,7 +14,7 @@
 
 G検定
 
-Fujitsu Certified Professional AI
+Ｅ資格
 
 統計検定2級
 
