@@ -49,3 +49,6 @@ https://matsuolab-geniac.notion.site/llmatch-season2
 
 https://github.com/K0909github/paper-hacks
 
+[インターン]
+
+Fast Neura　リサーチインターン
