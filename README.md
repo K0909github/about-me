@@ -35,6 +35,9 @@ NAIST計算行動神経科学スプリングセミナー修了生
 
 MEGの脳波分類（MEG-competitionブランチ）: 被験者が画像を見ているときの脳波から，その画像がどのクラスに属するかを分類する．これはClipのファインチューニングで作りました。https://github.com/K0909github/dl_lecture_competition_pub/tree/MEG-competition
 
+AWS(Bedrock,eventbridge)+Slack APIを使った開発:24時間おきにSlackで多かった質問を取り上げてメールに通知するBotを作成しました。
+https://github.com/K0909github/cdk-slack-analyzer
+
 fashion_item_clssifier:カメラで撮った画像に移っているものがどんな種類の服や靴か判別。Streamlitで動きます。訓練済みパラメータの読み込みと設定で作りました。
 
 https://huggingface.co/K0909/llm-jp-3-13b-it_lora:このモデルは元のモデルでllm-jp/llm-jp-3-13bを使い、 データはichikara-instruction-003-001-1.jsonを使ってファインチューニングしたものです。 データセットとしてelyza-tasks-100-TV_0.jsonlを読み込み、 taskid,input,outputを出力することが出来ます
