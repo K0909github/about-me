@@ -1,6 +1,10 @@
 # about-me
 自己紹介
 
+自己紹介用のWebページを作りました
+
+https://K0909github.github.io
+
 https://www.linkedin.com/in/%E5%92%8C%E4%B9%8B-%E5%90%89%E5%B7%9D-35a3ab33a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
